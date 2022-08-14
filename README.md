@@ -1,1 +1,1 @@
-Implement simpel child process usage in NestJs
+Implement simple child process usage in NestJs
